@@ -1,0 +1,31 @@
+ .home
+        {
+           margin-left: 400px;
+            margin-top:200px; 
+        }
+ .home-reg
+        {
+              margin:0 0 0 350px;
+              border-radius: 20px;
+              border:3px solid black;
+              padding:0 20px 0 20px;
+              background-color: aqua;
+        }
+ .video
+        {
+           Position:fixed; 
+            top:0;
+            bottom:0;
+            object-fit: cover;
+            min-height:100%;
+            min-width:100%;
+            z-index: -1;
+        }
+        button:hover
+        {
+            background-color: blue;
+        }
+        a:hover
+        {
+            color:white;
+        }
